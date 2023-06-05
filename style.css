@@ -197,5 +197,9 @@ p {
        .subtitulo {
              font-size: 2rem;
      }
-  
+     .introducao h1 {
+            font-size: 1rem;
+
+     }
+
     }
