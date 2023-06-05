@@ -193,11 +193,11 @@ p {
          }
 }
 
-@media (max-width: 500px) {     
+@media (max-width: 400px) {     
        .subtitulo {
              font-size: 2rem;
      }
-     .introducao h1 {
+     :label-introducal {
             font-size: 1rem;
 
      }
